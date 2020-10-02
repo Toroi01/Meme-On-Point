@@ -1,0 +1,5 @@
+spacy
+Pillow
+tweepy
+schedule
+bs4
