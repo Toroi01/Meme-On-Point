@@ -11,7 +11,7 @@ import json
 
 
 #Key api giphy
-KEY = "iUHOf3pMBSV8Dy9lCf4cZ74BvGxk6GtH"
+KEY = ""
 
 def get_meme_giphy(tweet_text):
     '''
